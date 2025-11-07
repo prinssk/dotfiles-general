@@ -7,16 +7,24 @@ change variables to your liking - especially wallpaper and workspace binds
 ## Installs and prerequisites
 
 riseup-vpn
+cava
+
 
 hyprlock
 hypridle
 
+adb
+adbfs
+ncdu
+
 kitty
-dolphin
-wofi
-wl-paste
+nemo
+riseup-vpn
+wf-recorder
+wl-copy / wl-paste
 cliphist
+grim
+yt-dlp
 
 swaybg
-screenfetch
-
+fastfetch

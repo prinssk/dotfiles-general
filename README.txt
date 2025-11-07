@@ -9,16 +9,17 @@ change variables to your liking - especially wallpaper and workspace binds
 riseup-vpn
 cava
 
-
+hyprland
 hyprlock
 hypridle
 
 adb
 adbfs
 ncdu
+git
 
 kitty
-nemo
+dolphin
 riseup-vpn
 wf-recorder
 wl-copy / wl-paste

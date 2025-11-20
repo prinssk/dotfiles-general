@@ -4,7 +4,7 @@ change variables to your liking - especially wallpaper and workspace binds
 
 ---
 
-## Installs and prerequisites
+## Prerequisites
 
 riseup-vpn
 cava
@@ -27,5 +27,6 @@ cliphist
 grim
 yt-dlp
 
+waybar
 swaybg
 fastfetch

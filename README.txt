@@ -4,29 +4,40 @@ change variables to your liking - especially wallpaper and workspace binds
 
 ---
 
-## Prerequisites
+## programs
 
 riseup-vpn
 cava
+cowsaw
+cowthink
 
 hyprland
 hyprlock
 hypridle
 
+android-tools
 adb
 adbfs
 ncdu
 git
+ninja
 
+vlc
 kitty
+lf
 dolphin
 riseup-vpn
+wireshark
+nmap
 wf-recorder
 wl-copy / wl-paste
 cliphist
+scrcpy
 grim
-yt-dlp
-
+yt_dlp
+dunst
+fuzzel
 waybar
 swaybg
 fastfetch
+code
